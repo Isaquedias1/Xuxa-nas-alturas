@@ -21,4 +21,4 @@ projeto feito por Isaque Dias e Lucas Soares de Araujo baseado na cena do filme 
 
 Diagrama de classe:
 
-![diagrama de classe](https://github.com/user-attachments/assets/6e968606-0fc5-41aa-993b-f6bd459257c7)
+![diagrama de classe](https://github.com/user-attachments/assets/eb9be692-9635-4c03-959c-b35b235cf6ec)
