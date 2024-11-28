@@ -77,10 +77,10 @@ projeto feito por Isaque Dias e Lucas Soares de Araujo baseado na cena do filme 
 >
 > A nossa cena vai mostrar a escalada de Xuxa subindo em cipós assim como no filme. As cenas planejadas irão ter a Xuxa escalando em cipós e desviando de obstáculos, com objetivo inicial de chegar no topo da floresta.
 >
-> Após chegar no topo das árvores, Xuxa se transforma em uma versão dela com asas de borboletas e começa a subir pelo céu rumo as nuvens desviando de obstáculos como nuvens. O jogo termina quando o jogador chega ao topo do jogo o céu.
+> Após chegar no topo das árvores, ocorre uma cena com imagem girando para representar os efeitos da época de magia e Xuxa começa a subir pelo céu rumo as nuvens desviando de obstáculos. O jogo termina quando o jogador chega passa pela fase do céu.
 >
 >` Sobre o jogo:`
-> O jogo adaptara uma cena do filme "Super Xuxa Contra o Baixo Astral", na cena em questão, Xuxa tem que escalar a árvore do conhecimento para seguir sua busca pelo seu cachorro Xuxo, que foi sequestrado pelo vilão Baixo Astral.Ela então tenta escalar,porém ela caí dos cipós em que estava se segurando. Felizmente Xuxa se transforma em uma borboleta e consegue voar em segurança até o céu, onde encontra um cristal que deixa Xuxa no alto astral
+> O jogo adaptara uma cena do filme "Super Xuxa Contra o Baixo Astral", na cena em questão, Xuxa tem que escalar a árvore do conhecimento para seguir sua busca pelo seu cachorro Xuxo, que foi sequestrado pelo vilão Baixo Astral.Ela então tenta escalar,porém ela caí dos cipós em que estava se segurando. Felizmente Xuxa ganha poderes e consegue voar em segurança até o céu, onde encontra um cristal que deixa Xuxa no alto astral
 >
 > Nosso jogo contém duas fases jogaveís,uma fase que agirá como uma "cutscene", e 4 paineis usando o recurso Canva.Estes paíneis envolvem 2 telas de Game Over (uma para cada fase jogavel), uma tela de vítoria e um menu inicial
 >
@@ -88,4 +88,16 @@ projeto feito por Isaque Dias e Lucas Soares de Araujo baseado na cena do filme 
 >
 >![diagrama de classe](https://github.com/user-attachments/assets/eb9be692-9635-4c03-959c-b35b235cf6ec)
 >
+> Classe Xuxa:
+>A classe Xuxa irá receber a posição do jogador com Vector3, e aplica a movimentação com o método movimento
+>
+>
+> Classe OnCollisionEnter:
+> Detecta quando ocorre uma colisão de gameObjects e com os métodos irá definir a se o player conseguiu uma vítoria ou derrota
+>
+>
 >` Funcionalidades`
+>
+>` Elementos do jogo`
+>
+>` Paleta de cor do jogo`
