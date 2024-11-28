@@ -45,16 +45,44 @@ projeto feito por Isaque Dias e Lucas Soares de Araujo baseado na cena do filme 
 >
 >` A cena:`
 >
+> Na cena em questão, Xuxa recebe a dica de que precisa subir para encontrar a resposta que precisava. Aos poucos vai escalando pelos cipós e falando com pássaros, ela vai pensando em como alcançar ao alto astral, e cada um dos pássaros fala sua visão e concepção de felicidade.
+> Xuxa acaba caindo, mas acaba se transformando em uma borboleta e voando ao céu até alcançar as nuvens e finalmente alcançando o alto astral.
+>
 >` As cores e seus significados`
 >
->` A grande Xuxa`
+> A teoria das cores desse filme trabalha muito bem com sua proposta, as cores claras e fortes são frequentes no filme, principalmente em partes que querem representar a alegria, diversão e infantilização do filme.
+> Essas partes claras são escolhidas por conta da mensagem que querem transmitir, e para atrair as pessoas para se envolverem com o filme.
+>
+> As partes escuras buscam representar uma seriedade, o baixo astral ou a falta da felicidade. Por serem usadas nas cenas em que os vilões aparecem, já que eles representam essas emoções.
+>
+>` A grande Xuxa e seus amigos`
+>
+> Os personagens presentes na obra são:
+>
+> Xuxa: No filme a Xuxa é a nossa protagonista que luta contra a tristeza e faz uma campanha no filme que busca trazer a felicidade a todos. Ela é demonstrada em diversas partes do filme, como sendo uma personagem alegre e que se importa bastante com as pessoas.
+>
+> Xuxo: É o amigo de Xuxa que é carinhoso e realmente se importa com sua Dona. No filme ele é afetado pelo baixo astral, fazendo ele ficar triste com a Xuxa e posteriormente capturado pelos capangas do Baixo astral
+>
+> Xixa: Uma lagarta cigana que aparece no sonho de Xuxa e a ajuda em sua jornada, guiando ela com mensagens e mostrando o caminho para salvar Xuxo.
+>
+> Rafa: Ele é um menino delinquente que o vilão o pega com intuito de ajudar ele em seu plano, o garoto age como um valentão e malfeitor como mostrado na cena em que maltrata de um menino por ganhar um prémio.
+>
+> Baixo astral: ele é o grande vilão da obra, sente prazer ao ver coisas ruins como guerras e ataques. Por não concordar com Xuxa querer trazer a felicidade, ele desenvolve seu objetivo de impedir ela e trazer a tristeza ao Mundo.
+>
+> Capangas: Os capangas são feitos para agirem como alívio cômico e tem como o seu chefe o baixo astral que os trata mal.
+>
+> Animais da floresta: temos alguns animais presentes na cena da floresta que passam uma mensagem a Xuxa, sobre o caminho que devemos seguir e que para começar a seguir ele, devemos dar o primeiro passo.
 >
 >` Proposta do jogo`
+>
+> A nossa cena vai mostrar a escalada de Xuxa subindo em cipós assim como no filme. As cenas planejadas irão ter a Xuxa escalando em cipós e desviando de obstáculos, com objetivo inicial de chegar no topo da floresta.
+>
+> Após chegar no topo das árvores, Xuxa se transforma em uma versão dela com asas de borboletas e começa a subir pelo céu rumo as nuvens desviando de obstáculos como nuvens. O jogo termina quando o jogador chega ao topo do jogo o céu.
 >
 >` Sobre o jogo:`
 > O jogo adaptara uma cena do filme "Super Xuxa Contra o Baixo Astral", na cena em questão, Xuxa tem que escalar a árvore do conhecimento para seguir sua busca pelo seu cachorro Xuxo, que foi sequestrado pelo vilão Baixo Astral.Ela então tenta escalar,porém ela caí dos cipós em que estava se segurando. Felizmente Xuxa se transforma em uma borboleta e consegue voar em segurança até o céu, onde encontra um cristal que deixa Xuxa no alto astral
 >
->Nosso jogo contém duas fases jogaveís,uma fase que agirá como uma "cutscene", e 4 paineis usando o recurso Canva.Estes paíneis envolvem 2 telas de Game Over (uma para cada fase jogavel), uma tela de vítoria e um menu inicial
+> Nosso jogo contém duas fases jogaveís,uma fase que agirá como uma "cutscene", e 4 paineis usando o recurso Canva.Estes paíneis envolvem 2 telas de Game Over (uma para cada fase jogavel), uma tela de vítoria e um menu inicial
 >
 >` Diagrama de classe:`
 >
