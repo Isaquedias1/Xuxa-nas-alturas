@@ -19,3 +19,6 @@ projeto feito por Isaque Dias e Lucas Soares de Araujo baseado na cena do filme 
 >
 >Nosso jogo contém duas fases jogaveís,uma fase que agirá como uma "cutscene", e 4 paineis usando o recurso Canva.Estes paíneis envolvem 2 telas de Game Over (uma para cada fase jogavel), uma tela de vítoria e um menu inicial
 
+Diagrama de classe:
+
+![diagrama de classe](https://github.com/user-attachments/assets/6e968606-0fc5-41aa-993b-f6bd459257c7)
