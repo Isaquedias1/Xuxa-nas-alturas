@@ -89,12 +89,15 @@ projeto feito por Isaque Dias e Lucas Soares de Araujo baseado na cena do filme 
 >![diagrama de classe](https://github.com/user-attachments/assets/eb9be692-9635-4c03-959c-b35b235cf6ec)
 >
 > Classe Xuxa:
->A classe Xuxa irá receber a posição do jogador com Vector3, e aplica a movimentação com o método movimento
+> A classe Xuxa irá receber a posição do jogador com Vector3, e aplica a movimentação com o método movimento
 >
 >
 > Classe OnCollisionEnter:
-> Detecta quando ocorre uma colisão de gameObjects e com os métodos irá definir a se o player conseguiu uma vítoria ou derrota
+> Detecta quando ocorre uma colisão de gameObjects e com os métodos irá definir se o player conseguiu uma vítoria ou derrota
 >
+>
+> Classe Botão:
+> Transiciona de cena após ocorrer um click no botão
 >
 >` Funcionalidades`
 >
