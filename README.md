@@ -109,7 +109,7 @@ projeto feito por Isaque Dias e Lucas Soares de Araujo baseado na cena do filme 
 >
 >
 > Classe Botão:
-> Transiciona de cena após ocorrer um click no botão
+> Transiciona de cena após ocorrer um click no botão,qual será a transição é definida pelo método que está atrelado ao botão
 >
 >
 > `Descrição Técnica do Desenvolvimento:`
