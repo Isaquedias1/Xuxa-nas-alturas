@@ -90,8 +90,8 @@ projeto feito por Isaque Dias e Lucas Soares de Araujo baseado na cena do filme 
 >
 >
 >` Paleta de cor do jogo`
-> O jogo possuí cores fortes e quentes assim seguindo o padrão do filme
-> Já Xuxa constrasta com o cenário por conta de seu cabelo e roupa branca 
+> O jogo possuí cores fortes e quentes assim seguindo o padrão do filme.
+> Já Xuxa constrasta com o cenário por conta de seu cabelo amarelo e roupa branca 
 >
 >
 >` Diagrama de classe:`
@@ -112,11 +112,22 @@ projeto feito por Isaque Dias e Lucas Soares de Araujo baseado na cena do filme 
 > Transiciona de cena após ocorrer um click no botão
 >
 >
+> `Descrição Técnica do Desenvolvimento:`
+> Primeiramente após a definição de como seria o projeto, iniciamos a busca por assets compatíveis para a construção das cenas, após a montagem da primeira cena foram implementados dois scripts, uma para a movimentação da Xuxa e outro para a camêra no mesmo eixo e velocidade.
+>
+> Logo depois foram finalizados os outros dois cénarios do game e criados 4 páineis utilizando-se de recursos do Canvas.
+> Com os cénarios do game prontos focamos na programação e, após o código de colisão funcionar corretamente o projeto progrediu rapidamente.
+> Usando da colisão foram adicionadas as transições da cena.
+>
+>
 >
 > `Papel de cada um da dupla :`
 >
 > Isaque:
->Isaque foi quem teve a maioria das ídeias para a idealização do projeto, fez tanto o esboço do diagrama quanto a versão final, pensou 
+>Isaque foi quem teve a maioria das ídeias para a idealização do projeto, fez tanto o esboço do diagrama quanto a versão final, fez e pensou na lógica de todos os scripts do jogo, e foi quem silecionou a trilha sonora de cada cena
+>
+>Lucas:
+>
 >
 >
 >
