@@ -133,3 +133,7 @@ projeto feito por Isaque Dias e Lucas Soares de Araujo baseado na cena do filme 
 >
 > # Referencias
 >
+> https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
+> https://assetstore.unity.com/packages/3d/3le-low-poly-cloud-pack-65911
+> https://assetstore.unity.com/packages/3d/props/stylized-crystal-77275
+> https://assetstore.unity.com/packages/3d/props/interior/books-pack-5484
