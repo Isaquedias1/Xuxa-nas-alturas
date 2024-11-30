@@ -73,6 +73,7 @@ projeto feito por Isaque Dias e Lucas Soares de Araujo baseado na cena do filme 
 >
 > Animais da floresta: temos alguns animais presentes na cena da floresta que passam uma mensagem a Xuxa, sobre o caminho que devemos seguir e que para começar a seguir ele, devemos dar o primeiro passo.
 >
+>
 >` Proposta do jogo`
 >
 > A nossa cena vai mostrar a escalada de Xuxa subindo em cipós assim como no filme. As cenas planejadas irão ter a Xuxa escalando em cipós e desviando de obstáculos, com objetivo inicial de chegar no topo da floresta.
@@ -84,12 +85,23 @@ projeto feito por Isaque Dias e Lucas Soares de Araujo baseado na cena do filme 
 >
 > Nosso jogo contém duas fases jogaveís,uma fase que agirá como uma "cutscene", e 4 paineis usando o recurso Canva.Estes paíneis envolvem 2 telas de Game Over (uma para cada fase jogavel), uma tela de vítoria e um menu inicial
 >
+>
+> Personagens: O único personagem jogavel será Xuxa, inicialmente pensamos em implementar personagens secundarios para a composição de cenário. No entanto optamos por apenas Xuxa estar presente, pois somente ela será importante para a jogabilidade
+>
+>
+>` Paleta de cor do jogo`
+> O jogo possuí cores fortes e quentes assim seguindo o padrão do filme
+> Já Xuxa constrasta com o cenário por conta de seu cabelo e roupa branca 
+>
+>
 >` Diagrama de classe:`
+>
+>
 >
 >![diagrama de classe](https://github.com/user-attachments/assets/eb9be692-9635-4c03-959c-b35b235cf6ec)
 >
 > Classe Xuxa:
-> A classe Xuxa irá receber a posição do jogador com Vector3, e aplica a movimentação com o método movimento
+> A classe Xuxa irá receber a posição do jogador com Vector3, e aplicar a movimentação com o método movimento
 >
 >
 > Classe OnCollisionEnter:
@@ -99,8 +111,12 @@ projeto feito por Isaque Dias e Lucas Soares de Araujo baseado na cena do filme 
 > Classe Botão:
 > Transiciona de cena após ocorrer um click no botão
 >
->` Funcionalidades`
 >
->` Elementos do jogo`
 >
->` Paleta de cor do jogo`
+> `Papel de cada um da dupla :`
+>
+> Isaque:
+>Isaque foi quem teve a maioria das ídeias para a idealização do projeto, fez tanto o esboço do diagrama quanto a versão final, pensou 
+>
+>
+>
