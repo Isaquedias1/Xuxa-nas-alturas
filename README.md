@@ -129,8 +129,8 @@ projeto feito por Isaque Dias e Lucas Soares de Araujo baseado na cena do filme 
 >Lucas:
 >O Lucas foi o responsável pelos cenários do jogo com ele criando eles e adicionando ideias interessantes nas cenas e me ajudando com o projeto enquanto não estavamos na escola com scripts e assets.
 >
-> [!NOTE]
->Video do Projeto:
+> 
+> `Video do Projeto:`
 > https://drive.google.com/file/d/1UroczUOdN9mEQnofvtlhc1VnM-bTAGYF/view?usp=drive_link
 > (Não foi possivel adicionar o video ao read me, por ter ficado pesado demais)
 >
