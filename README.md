@@ -127,7 +127,7 @@ projeto feito por Isaque Dias e Lucas Soares de Araujo baseado na cena do filme 
 >Isaque foi quem teve a maioria das ídeias para a idealização do projeto, fez tanto o esboço do diagrama quanto a versão final, fez e pensou na lógica de todos os scripts do jogo, e foi quem selecionou a trilha sonora de cada cena
 >
 >Lucas:
->
+>O Lucas foi o responsável pelos cenários do jogo com ele criando eles e adicionando ideias interessantes nas cenas e me ajudando com o projeto em quanto não estavamos na escola com scripts e assets.
 >
 >
 >
