@@ -143,3 +143,4 @@ projeto feito por Isaque Dias e Lucas Soares de Araujo baseado na cena do filme 
 > https://assetstore.unity.com/packages/3d/environments/fantasy/fantasy-forest-environment-free-demo-35361
 > https://assetstore.unity.com/packages/3d/vegetation/trees/free-trees-103208
 > https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153
+> https://sketchfab.com/3d-models/segmented-lowpoly-base-female-ps1-style-edd1118dbbe340cba40f49a3e4ff59bb
